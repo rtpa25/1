@@ -1,0 +1,19 @@
+ body {
+     background-color: #FDD2BF;
+ }
+ 
+ hr {
+     border-style: none;
+     width: 8%;
+     border-top: 5px dotted #012443;
+ }
+ 
+ h3 {
+     color: #B61919;
+ }
+ /* h1 is called the selector  */
+ /* color is called the property that has to be chganged */
+ 
+ h1 {
+     color: #B61919;
+ }
